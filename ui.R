@@ -9,7 +9,7 @@ shinyUI(fluidPage(
     
     includeCSS('./custom.css'),
     
-    titlePanel("U.S. Nationwide Percentage of Storm Injuries & Fatalities (1996-2011)"),
+    titlePanel("U.S. Nationwide Percentage of Storm Destruction (1996-2011)"),
     
     tagList(
         
